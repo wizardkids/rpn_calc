@@ -7,4 +7,4 @@
 
 -i https://pypi.org/simple
 pyperclip==1.8.2
-windows-curses==2.3.0
+windows-curses
