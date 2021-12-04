@@ -7,4 +7,4 @@
 
 -i https://pypi.org/simple
 pyperclip==1.8.2
-windows-curses
+C:\Users\rer1\OneDrive\Python on OneDrive\Heroku_Apps\.venv\Lib\site-packages\windows_curses-2.3.0.dist-info
